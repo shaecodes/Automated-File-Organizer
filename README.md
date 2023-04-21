@@ -1,18 +1,22 @@
 # Automated File Organizer  
 
-File Organizer is a Python script that helps you automatically organize files in a directory based on their file types. It creates folders for different file types such as PDFs, videos, audios, images, Word documents, ZIP files, and PowerPoint presentations, and moves the files to their respective folders.
+File Organizer is a Python script that helps you automatically organize files in a directory based on their file types. It creates folders for different file types such as PDFs, videos, audios, images, Word documents, ZIP files, and PowerPoint presentations, and moves the files to their respective folders. This allows you to keep your files neat and accessible. 
 
-# Usage  
+# How to Use  
 
-Run the script by executing the Python file file_organizer.py.  
+Run the script in a Python environment (e.g. Python interpreter or IDE).  
 
-Enter the path of the directory you want to organize when prompted.  
+Follow the prompts to enter the path of the directory you want to organize. Make sure to use the appropriate file path format for your operating system (i.e. double backslashes "\" for Windows or forward slashes "/" for macOS and Linux).  
 
-Confirm if you want to proceed with the operation to change the location of current files.  
+Confirm if you want to proceed with organizing the files in the specified directory.  
 
-The script will create folders for different file types if they don't exist already, and move the files to their respective folders.  
+The script will automatically create folders for different file types, such as PDFs, videos, audios, images, Word documents, ZIPs, and Powerpoints, if they do not already exist in the specified directory.  
 
-After the operation is completed, the script will display the number of files organized in each category.  
+The script will then move the corresponding files into their respective folders based on their file extensions.  
+
+Once the files are organized, the script will display the total number of files for each file type.  
+
+You can now easily access and manage your files in the organized folders.  
 
 # Supported File Types  
 
@@ -31,6 +35,8 @@ Word Documents (DOCX, DOC)
 ZIP Files  
 
 PowerPoint Presentations (PPTX, PPT)  
+
+If you have other file types that you want to organize, you can easily modify the script by adding or modifying the corresponding file extensions in the code.
 
 # Note  
 
