@@ -22,19 +22,19 @@ You can now easily access and manage your files in the organized folders.
 
 The script supports the following file types and organizes them into corresponding folders:  
 
-PDFs  
+- PDFs  
 
-Videos (MP4, M4A)  
+- Videos (MP4, M4A)  
 
-Audios (MP3)  
+- Audios (MP3)  
 
-Images (JPEG, JPG, PNG, WEBP)  
+- Images (JPEG, JPG, PNG, WEBP)  
 
-Word Documents (DOCX, DOC)  
+- Word Documents (DOCX, DOC)  
 
-ZIP Files  
+- ZIP Files  
 
-PowerPoint Presentations (PPTX, PPT)  
+- PowerPoint Presentations (PPTX, PPT)  
 
 If you have other file types that you want to organize, you can easily modify the script by adding or modifying the corresponding file extensions in the code.
 
